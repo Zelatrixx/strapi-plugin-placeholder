@@ -37,7 +37,7 @@
     "yup": "^0.32.9"
   },
   "dependencies": {
-    "plaiceholder": "^2.3.0"
+    "plaiceholder": "^3.0.0"
   },
   "devDependencies": {
     "eslint": "^8.12.0",
